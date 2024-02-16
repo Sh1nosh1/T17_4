@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="T17_4_Example_1_.AClass">
+    <Position X="4.75" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAAAAAAAAA=</HashCode>
+      <FileName>AClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="T17_4_Example_1_.DerivedClass">
+    <Position X="8.25" Y="3" Width="2" />
+    <InheritanceLine Type="T17_4_Example_1_.AClass" FixedFromPoint="true">
+      <Path>
+        <Point X="6.75" Y="1.812" />
+        <Point X="7.125" Y="1.812" />
+        <Point X="7.125" Y="3.809" />
+        <Point X="8.25" Y="3.809" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgAAAAAAAAAAA=</HashCode>
+      <FileName>DerivedClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="T17_4_Example_1_.Program">
+    <Position X="2" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
